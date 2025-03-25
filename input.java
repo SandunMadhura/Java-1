@@ -8,6 +8,7 @@ public class input {
 
             System.out.println("Enter Your Age");
             int age = myObj.nextInt();
+            myObj.nextLine();
             
 
             System.out.println("Enter Your City");
